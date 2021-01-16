@@ -9,4 +9,5 @@ Dolayısıyla kullanıcıdan pattern istenirken 0 3 4 2 1 gibi bir girdi yapmas�
 Kullanıcı patterni girdikten sonra bu yol üzerinde bir çevrim oluşabiliyorsa kullanıcıya sonuç olumlu olarak yazdırılır. Eğer bu çevrim oluşamıyorsa kullanıcıya olumsuz
 sonuç yazdırılır.
 
+Ayrıntılı bilgi için Rapor.pdf dosyasını inceleeyebilirsiniz.
 Soru sormak için sosyal medya hesaplarıma @burakbozb1 kullanıcı adı ile ulaşabilirsiniz.
